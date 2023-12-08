@@ -1,0 +1,9 @@
+Features	pval
+Age1	0.4
+Gender	0.365
+T.stage	0.237
+N.stage	0.024
+M.stage	0.013
+Stage	0.332
+Grade	0
+Status	0.006
